@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+.container{
+background-color: #7F8C8D;
+}
+.picmenu {
+margin-top: 50px;
+margin-bottom: 45px;
+  border: 5px solid;
+}
+
+.page {
+
+width:1200px;
+margin:0 auto;
+
+}
+
+.menu {
+background-color: #70d015;
+font-family: 'Bungee';
+height: 45px;
+margin: 0px 10px  ;
+display:flex;
+justify-content: space-around;
+}
+
+.intro {
+  height: 100px;
+width:800px;
+
+margin: 2px auto;
+
+}
+
+.pics1 {
+  border: 5px solid;
+padding-bottom: 40px;
+float:left;
+height: 298px;
+
+}
+
+
+.prez1 {
+
+float:right;
+width: 900px;
+  height: 350px;
+
+}
+
+.pics2 {
+border: 5px solid;
+float:right;
+height: 298px;
+padding-bottom: 40px;
+
+}
+.prez2 {
+float:left;
+width: 800px;
+  height: 298px;
+
+}
+
+.content {
+  height: 500px;
+
+}
+.stuff{
+float:left;
+height:350px;
+width:800px;
+margin-top: 45px;
+}
+
+.stuffpic{
+
+border: 5px solid;
+float:left;
+height: 298px;
+margin-right: 45px;
+margin-top: 45px;
+}
+
+.footer {
+  font: italic small-caps bold 16px/2 cursive;
+  color: #FFFFFF;
+clear: both;
+  float: none;
+text-align: center;
+  height: 65px;
+  background-color: #000000;    /* Light blue */
+}
